@@ -26,17 +26,17 @@ I'm **Carmen**.
 
 ---
 
- ## 🔧 Technologies & Tools  
+ ## 🔧 Technologies & Tools   
 
-### 💻 **Programming Languages**  
-![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B)  
-![C](https://img.shields.io/badge/C-orange?style=flat&logo=c)  
-![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)  
-![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)  
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)  
-![C#](https://img.shields.io/badge/C%23-purple?style=flat&logo=csharp)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)  
-![PHP](https://img.shields.io/badge/PHP-darkblue?style=flat&logo=php)  
+### 💻 Programming Languages  
+<img src="https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B" />
+<img src="https://img.shields.io/badge/C-orange?style=flat&logo=c" />
+<img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python" />
+<img src="https://img.shields.io/badge/Java-red?style=flat&logo=java" />
+<img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript" />
+<img src="https://img.shields.io/badge/C%23-purple?style=flat&logo=csharp" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript" />
+<img src="https://img.shields.io/badge/PHP-darkblue?style=flat&logo=php" /> 
 
 ### 📂 **Databases**  
 ![Oracle DB](https://img.shields.io/badge/OracleDB-red?style=flat&logo=oracle)  
