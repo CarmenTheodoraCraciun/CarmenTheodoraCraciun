@@ -2,6 +2,8 @@
 
 I'm **Carmen**. 
 
+💡 "Life without a semicolons; just another syntax error."
+
 🚀 **Software Developer | Passionate about Machine Learning & Web Development**
 
 🎓 Master in **Intelligent Software Robotics** at the West University of Timișoara
@@ -40,21 +42,3 @@ I'm **Carmen**.
 ### 🛠 Tools  
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git) ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker) ![DOORS](https://img.shields.io/badge/DOORS-darkblue?style=flat&logo=ibm) ![UiPath](https://img.shields.io/badge/UiPath-red?style=flat&logo=uipath)  
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarmenTheodoraCraciun&show_icons=true&theme=dark)
-
-<!--
-**CarmenTheodoraCraciun/CarmenTheodoraCraciun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
