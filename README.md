@@ -46,6 +46,4 @@
 - **Stroke Prediction** | ML model for stroke prediction → *Python, TensorFlow, scikit-learn*
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/carmen-theodora-craciun-84456a255/)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:carmen.theodora.craciun@gmail.com)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/carmen-theodora-craciun-84456a255/)
