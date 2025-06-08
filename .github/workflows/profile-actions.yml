@@ -1,0 +1,21 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Rulează zilnic la miezul nopții
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README with latest GitHub stats
+        uses: anuraghazra/github-readme-stats@latest
+        with:
+          username: ${{ github.actor }}
+          theme: dark
