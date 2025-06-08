@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm **Carmen**. 
+## Hi there, I'm **Carmen** :). 
 
 💡 "Life without a semicolons; just another syntax error."
 
@@ -9,24 +7,6 @@ I'm **Carmen**.
 🎓 Master in **Intelligent Software Robotics** at the West University of Timișoara
 
 💡 Interests: UI/UX Design, Software Architecture & Web Development
-
----
-
-## 🚀 Important Projects
-- **Airmed** | Web platform for psychological support → *React.js, TypeScript, Java Spring Boot, MySQL*
-- **miniShark** | An improved *Wireshark* → *Electron.js, HTML, CSS, C++*
-- **Hair Texture Classification** | Machine Learning for classifying hair types → *Python, Computer Vision*
-- **Daily Meal with Grocery List** | Meal planning automation → *Visual Basic, UiPath*
-- **Stroke Prediction** | ML model for stroke prediction → *Python, TensorFlow, scikit-learn*
-
----
-
-## 📫 How to reach me
-📱 LinkedIn: [https://www.linkedin.com/in/carmen-theodora-craciun-84456a255/]
-
- ✉ Email: [carmen.theodora.craciun@gmail.com](mailto:carmen.theodora.craciun@gmail.com)
-
----
 
 ## 🔧 Technologies & Tools    
 
@@ -42,3 +22,14 @@ I'm **Carmen**.
 ### 🛠 Tools  
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git) ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker) ![DOORS](https://img.shields.io/badge/DOORS-darkblue?style=flat&logo=ibm) ![UiPath](https://img.shields.io/badge/UiPath-red?style=flat&logo=uipath)  
 
+## 🚀 Important Projects
+- **Airmed** | Web platform for psychological support → *React.js, TypeScript, Java Spring Boot, MySQL*
+- **miniShark** | An improved *Wireshark* → *Electron.js, HTML, CSS, C++*
+- **Hair Texture Classification** | Machine Learning for classifying hair types → *Python, Computer Vision*
+- **Daily Meal with Grocery List** | Meal planning automation → *Visual Basic, UiPath*
+- **Stroke Prediction** | ML model for stroke prediction → *Python, TensorFlow, scikit-learn*
+
+## 📫 How to reach me
+📱 LinkedIn: [https://www.linkedin.com/in/carmen-theodora-craciun-84456a255/]
+
+ ✉ Email: [carmen.theodora.craciun@gmail.com](mailto:carmen.theodora.craciun@gmail.com)
