@@ -38,12 +38,11 @@
 ![DOORS](https://img.shields.io/badge/DOORS-darkblue?style=flat&logo=ibm) 
 [UiPath](https://img.shields.io/badge/UiPath-red?style=flat&logo=uipath)
 
-## 🚀 Important Projects
-- **Airmed** | Web platform for psychological support → *React.js, TypeScript, Java Spring Boot, MySQL*
-- **miniShark** | An improved *Wireshark* → *Electron.js, HTML, CSS, C++*
-- **Hair Texture Classification** | Machine Learning for classifying hair types → *Python, Computer Vision*
-- **Daily Meal with Grocery List** | Meal planning automation → *Visual Basic, UiPath*
-- **Stroke Prediction** | ML model for stroke prediction → *Python, TensorFlow, scikit-learn*
+## 🚀 Important Projects  
+- **[Airmed](https://github.com/CarmenTheodoraCraciun/Airmed)** | Web platform for psychological support → *React.js, TypeScript, Java Spring Boot, MySQL*  
+- **[Hair Texture Classification](https://github.com/CarmenTheodoraCraciun/HairTextureClassification)** | Machine Learning for classifying hair types → *Python, Computer Vision*  
+  - 📄 **Scientific paper**: *Analysis of the Performance of Machine Learning Models in Hair Texture Classification*  
+- **[Daily Meal with Grocery List](https://github.com/CarmenTheodoraCraciun/DailyMealWithGroceryList)** | Meal planning automation → *Visual Basic, UiPath*  
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/carmen-theodora-craciun-84456a255/)
