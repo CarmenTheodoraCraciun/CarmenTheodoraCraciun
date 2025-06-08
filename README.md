@@ -36,7 +36,7 @@
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)
 ![DOORS](https://img.shields.io/badge/DOORS-darkblue?style=flat&logo=ibm) 
-[UiPath](https://img.shields.io/badge/UiPath-red?style=flat&logo=uipath)  
+[UiPath](https://img.shields.io/badge/UiPath-red?style=flat&logo=uipath)
 
 ## 🚀 Important Projects
 - **Airmed** | Web platform for psychological support → *React.js, TypeScript, Java Spring Boot, MySQL*
