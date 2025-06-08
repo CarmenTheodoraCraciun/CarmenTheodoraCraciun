@@ -3,7 +3,9 @@
 I'm **Carmen**. 
 
 🚀 **Software Developer | Passionate about Machine Learning & Web Development**
+
 🎓 Master in **Intelligent Software Robotics** at the West University of Timișoara
+
 💡 Interests: UI/UX Design, Software Architecture & Web Development
 
 ---
@@ -19,6 +21,7 @@ I'm **Carmen**.
 
 ## 📫 How to reach me
 📱 LinkedIn: [https://www.linkedin.com/in/carmen-theodora-craciun-84456a255/]
+
  ✉ Email: [carmen.theodora.craciun@gmail.com](mailto:carmen.theodora.craciun@gmail.com)
 
 
