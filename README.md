@@ -41,7 +41,7 @@
 ## 🚀 Important Projects  
 - **[Airmed](https://github.com/CarmenTheodoraCraciun/Airmed)** | Web platform for psychological support → *React.js, TypeScript, Java Spring Boot, MySQL*  
 - **[Hair Texture Classification](https://github.com/CarmenTheodoraCraciun/HairTextureClassification)** | Machine Learning for classifying hair types → *Python, Computer Vision*  
-  - 📄 **Scientific paper**: *Analysis of the Performance of Machine Learning Models in Hair Texture Classification*  
+  - 📄 **Scientific paper**: *Performance analysis of Machine Learning Models in Hair Texture classification*  
 - **[Daily Meal with Grocery List](https://github.com/CarmenTheodoraCraciun/DailyMealWithGroceryList)** | Meal planning automation → *Visual Basic, UiPath*  
 
 ## 📫 How to reach me
