@@ -2,7 +2,7 @@
 
 💡 "Why did the SQL query go to therapy?
 
-Because it had too many INNER JOINs and couldn’t find itself."
+Because it had **too many INNER JOINs and couldn’t find itself**."
 
 🚀 **Data Engineer** | Big Data, AI/ML
 
@@ -57,20 +57,25 @@ A curated collection of academic and personal projects showcasing my work in dat
 ### ⚡ Big Data & Processing
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-orange?style=flat&logo=apachespark)](https://spark.apache.org/)
 [![Databricks](https://img.shields.io/badge/Databricks-red?style=flat&logo=databricks)](https://www.databricks.com/)
+[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
 
 ### ☁️ Cloud Platforms
-![Microsoft Azure](https://azure.microsoft.com/)
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 
-### 🔗 Frameworks & Libraries  
+### 🔗 Frameworks  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=flat&logo=springboot)
 ![React.js](https://img.shields.io/badge/React.js-lightblue?style=flat&logo=react)
 ![Electron.js](https://img.shields.io/badge/Electron.js-gray?style=flat&logo=electron)
 ![Google Test](https://img.shields.io/badge/Google%20Test-blue?style=flat&logo=google)  
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
 ### 🛠 Tools  
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 ![DOORS](https://img.shields.io/badge/DOORS-darkblue?style=flat&logo=ibm) 
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
 [UiPath](https://img.shields.io/badge/UiPath-red?style=flat&logo=uipath)
 
 ## 📫 How to reach me
