@@ -1,22 +1,23 @@
 ## Hi there, I'm **Carmen** :). 
 
-💡 "Life without a semicolons; just another syntax error."
+💡 "Why did the SQL query go to therapy?
 
-🚀 **Software Developer | Passionate about Machine Learning & Web Development**
+Because it had too many INNER JOINs and couldn’t find itself."
+
+🚀 **Data Engineer** | Big Data, AI/ML
 
 🎓 Master in **Intelligent Software Robotics** at the West University of Timișoara
 
-💡 Interests: UI/UX Design, Software Architecture & Web Development
+💡 Interests: Data Engineer, AI/ML, UI/UX Design, Software Architecture & Web Development
 
 ## 🚀 Project Portfolio
 
-A curated collection of academic and personal projects showcasing my work in software development, data engineering, RPA, and machine learning.
+A curated collection of academic and personal projects showcasing my work in data engineering, software development, RPA, and machine learning.
 
-### 🌐 Web Development/ Desktop aplication
+### 🧠 Data Engineering
 
-- **[Airmed](https://github.com/CarmenTheodoraCraciun/Airmed)** | Web platform for psychological support → *React.js, TypeScript, REST API, Java Spring Boot, MySQL*  
-- **[ConformEvents](https://github.com/klaus-tm/ConformEvents)** | Volunteer recruitment platform for cycling events → *React.js, TypeScript, REST API*  
-- **[miniShark](https://github.com/klaus-tm/miniShark)** | More easy to use WireShark → *Electron.js, C++, CMake, HTML/CSS/JS*
+- **[Stroke Prediction](https://github.com/CarmenTheodoraCraciun/Stroke-Prediction)** | Stroke risk assessment with full ETL pipeline → *Python, TensorFlow, scikit-learn*  
+- **[Financial Data Warehouse](https://github.com/CarmenTheodoraCraciun/Financial-Data-Warehouse)** | Scalable financial data backend and ingestion → *Python Flask, Apache Cassandra*
 
 ### 🤖 Machine Learning & AI
 
@@ -25,11 +26,11 @@ A curated collection of academic and personal projects showcasing my work in sof
 - **[MNIST Handwritten Digits](https://github.com/CarmenTheodoraCraciun/MNIST-Handwritten-Digits-Classification)** | Digit classification from images → *Python, scikit-learn*  
 - **[NLP – Text Simplification](https://github.com/CarmenTheodoraCraciun/NLP_Text_Simplification)** | Making complex text easier to understand → *Python, NLP*
 
-### 🧠 Data Engineering
+### 🌐 Web Development/ Desktop aplication
 
-- **[Stroke Prediction](https://github.com/CarmenTheodoraCraciun/Stroke-Prediction)** | Stroke risk assessment with full ETL pipeline → *Python, TensorFlow, scikit-learn*  
-- **[Financial Data Warehouse](https://github.com/CarmenTheodoraCraciun/Financial-Data-Warehouse)** | Scalable financial data backend and ingestion → *Python Flask, Apache Cassandra*
-
+- **[Airmed](https://github.com/CarmenTheodoraCraciun/Airmed)** | Web platform for psychological support → *React.js, TypeScript, REST API, Java Spring Boot, MySQL*  
+- **[ConformEvents](https://github.com/klaus-tm/ConformEvents)** | Volunteer recruitment platform for cycling events → *React.js, TypeScript, REST API*  
+- **[miniShark](https://github.com/klaus-tm/miniShark)** | More easy to use WireShark → *Electron.js, C++, CMake, HTML/CSS/JS*
 
 ### ⚙️ RPA & Automation
 
@@ -38,9 +39,9 @@ A curated collection of academic and personal projects showcasing my work in sof
 ## 🔧 Technologies & Tools    
 
 ### 💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/C-orange?style=flat&logo=c)
-![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
 ![C#](https://img.shields.io/badge/C%23-purple?style=flat&logo=csharp)
@@ -52,6 +53,13 @@ A curated collection of academic and personal projects showcasing my work in sof
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-darkred?style=flat&logo=microsoftsqlserver)
 ![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-purple?style=flat&logo=apachecassandra)  
+
+### ⚡ Big Data & Processing
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-orange?style=flat&logo=apachespark)](https://spark.apache.org/)
+[![Databricks](https://img.shields.io/badge/Databricks-red?style=flat&logo=databricks)](https://www.databricks.com/)
+
+### ☁️ Cloud Platforms
+![Microsoft Azure](https://azure.microsoft.com/)
 
 ### 🔗 Frameworks & Libraries  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=flat&logo=springboot)
