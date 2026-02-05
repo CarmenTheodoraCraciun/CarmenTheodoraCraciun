@@ -20,7 +20,7 @@ A curated collection of academic and personal projects showcasing my work in dat
 - **[Financial Data Warehouse](https://github.com/CarmenTheodoraCraciun/Financial-Data-Warehouse)** | Scalable financial data backend and ingestion → *Python Flask, Apache Cassandra*
 
 ### 🤖 ML & AI
-- **Sleep-Quality-Based-EEG-Signals** | *In progress*, **master thesis** | Analysis of the ML/AI models on the generation of hypnograms → *Python* 
+- **Sleep-Quality-Based-EEG-Signals** | *In progress*, **Master thesis** | Analysis of the ML/AI models on the generation of hypnograms → *Python* 
 - **[Movie Recommendation System](https://github.com/CarmenTheodoraCraciun/Movie-Recommendation-System-Text-Clasification)** | Recommending movies based on plot summaries → *Python, TF-IDF, SBERT, Hybrid System, Vizualization Map*  
 - **[Hair Texture Classification](https://github.com/CarmenTheodoraCraciun/HairTextureClassification)** | Classifying hair types using ML and CV → *Python, CNN, scikit-learn*  
   - 📄 *Includes scientific paper on model comparison still in work*  
@@ -29,7 +29,7 @@ A curated collection of academic and personal projects showcasing my work in dat
 
 ### 🌐 Web Development/ Desktop aplication
 
-- **[Airmed](https://github.com/CarmenTheodoraCraciun/Airmed)** | **Bachelor thesis*, Web platform for psychological support → *React.js, TypeScript, REST API, Java Spring Boot, MySQL*  
+- **[Airmed](https://github.com/CarmenTheodoraCraciun/Airmed)** | **Bachelor thesis** | Web platform for psychological support → *React.js, TypeScript, REST API, Java Spring Boot, MySQL*  
 - **[ConformEvents](https://github.com/klaus-tm/ConformEvents)** | Volunteer recruitment platform for cycling events → *React.js, TypeScript, REST API*  
 - **[miniShark](https://github.com/klaus-tm/miniShark)** | More easy to use WireShark → *Electron.js, C++, CMake, HTML/CSS/JS*
 
