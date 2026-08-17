@@ -44,6 +44,12 @@ This repository contains my Master's thesis project focused on analyzing sleep q
 
 - **[Daily Meal with Grocery List](https://github.com/CarmenTheodoraCraciun/DailyMealWithGroceryList)** | UiPath automation for meal planning → *Visual Basic, UiPath*
 
+## Certification
+
+* [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/7c66fd18-9eb2-441f-adff-17757985f24c#acc.5k29XnvK)
+* [Microsoft Azure Fundamentals](https://www.linkedin.com/in/carmen-theodora-craciun-84456a255/details/certifications/)
+* [More details](https://www.linkedin.com/in/carmen-theodora-craciun-84456a255/details/certifications/)
+
 ## 🔧 Technologies & Tools    
 
 ### 💻 Programming Languages  
