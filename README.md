@@ -14,13 +14,20 @@ Because it had **too many INNER JOINs and couldn’t find itself**."
 
 A curated collection of academic and personal projects showcasing my work in data engineering, software development, RPA, and machine learning.
 
+### [**Machine Learning Systems for Sleep Quality Assessment Based on EEG Signals**](https://github.com/CarmenTheodoraCraciun/Sleep-Quality-Based-EEG-Signals)
+
+This repository contains my Master's thesis project focused on analyzing sleep quality. It features a complete pipeline:
+* **Data Engineering:** Preprocessing and cleaning raw EEG signals.
+* **Modeling:** Implementing Machine Learning, Deep Learning, and Hybrid models.
+* **Output:** Automatically generating a hypnogram (a visual graph representing one full night of sleep).
+* **Deployment:** An interactive [Streamlit application](https://carmentheodoracraciun-sleep-quality-based--dashboardmain-h6jpyk.streamlit.app/) to easily visualize the data and explore the models' predictions.
+
 ### 🧠 Data Engineering
 
 - **[Stroke Prediction](https://github.com/CarmenTheodoraCraciun/Stroke-Prediction)** | Stroke risk assessment with full ETL pipeline → *Python, TensorFlow, scikit-learn*  
 - **[Financial Data Warehouse](https://github.com/CarmenTheodoraCraciun/Financial-Data-Warehouse)** | Scalable financial data backend and ingestion → *Python Flask, Apache Cassandra*
 
 ### 🤖 ML & AI
-- **Sleep-Quality-Based-EEG-Signals** | *In progress*, **Master thesis** | Analysis of the ML/AI models on the generation of hypnograms → *Python* 
 - **[Movie Recommendation System](https://github.com/CarmenTheodoraCraciun/Movie-Recommendation-System-Text-Clasification)** | Recommending movies based on plot summaries → *Python, TF-IDF, SBERT, Hybrid System, Vizualization Map*  
 - **[Hair Texture Classification](https://github.com/CarmenTheodoraCraciun/HairTextureClassification)** | Classifying hair types using ML and CV → *Python, CNN, scikit-learn*  
   - 📄 *Includes scientific paper on model comparison still in work*  
