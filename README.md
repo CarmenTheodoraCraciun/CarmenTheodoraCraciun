@@ -1,6 +1,6 @@
 ## Hi there, I'm **Carmen** :). 
 
-💡 "Why did the SQL query go to therapy?
+💡 "Why did the SQL query go to therapy? 
 
 Because it had **too many INNER JOINs and couldn’t find itself**."
 
@@ -44,7 +44,7 @@ This repository contains my Master's thesis project focused on analyzing sleep q
 
 - **[Daily Meal with Grocery List](https://github.com/CarmenTheodoraCraciun/DailyMealWithGroceryList)** | UiPath automation for meal planning → *Visual Basic, UiPath*
 
-## Certification
+## 📂 Certification
 
 * [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/7c66fd18-9eb2-441f-adff-17757985f24c#acc.5k29XnvK)
 * [Microsoft Azure Fundamentals](https://www.linkedin.com/in/carmen-theodora-craciun-84456a255/details/certifications/)
@@ -59,14 +59,6 @@ This repository contains my Master's thesis project focused on analyzing sleep q
 ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
 ![C#](https://img.shields.io/badge/C%23-purple?style=flat&logo=csharp)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-darkblue?style=flat&logo=php)  
-
-### 📂 Databases  
-![Oracle DB](https://img.shields.io/badge/OracleDB-red?style=flat&logo=oracle)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-darkred?style=flat&logo=microsoftsqlserver)
-![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-purple?style=flat&logo=apachecassandra)  
 
 ### ⚡ Big Data & Processing
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-orange?style=flat&logo=apachespark)](https://spark.apache.org/)
@@ -84,6 +76,12 @@ This repository contains my Master's thesis project focused on analyzing sleep q
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+
+### 📂 Databases  
+![Oracle DB](https://img.shields.io/badge/OracleDB-red?style=flat&logo=oracle)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-darkred?style=flat&logo=microsoftsqlserver)
+![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-purple?style=flat&logo=apachecassandra)  
 
 ### 🛠 Tools  
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
